@@ -2,8 +2,8 @@ version: '3'
 
 services:
 
-  data_science_with_tensorflow:
-    container_name: data_science_jupyter_with_tensorflow
+  data_science_environment:
+    container_name: data_science_jupyter
     build:
       context: ./
       dockerfile: Dockerfile
