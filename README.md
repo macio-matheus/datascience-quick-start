@@ -63,3 +63,11 @@ http://<your-ip>:8888/tree
     - 6007 => Tensorboard
     - 5007 => Your App
 ```
+
+## TODO
+Add support for
+```sh
+    - Theano
+    - PyTorch
+    - Tensorflow GPU (nvidia-docker)
+```
