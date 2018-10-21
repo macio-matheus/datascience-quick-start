@@ -1,4 +1,4 @@
-# Datascience Quick Start Environment
+# Quick start of a development environment for data science
 Development environment in Docker, which contains the most important tools 
 for: 
 
