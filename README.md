@@ -64,6 +64,11 @@ http://<your-ip>:8888/tree
     - 5007 => Your App
 ```
 
+## DockerHub
+```sh
+https://hub.docker.com/r/maciomatheus/jupyter_notebook_data_science/
+```
+
 ## TODO
 Add support for
 ```sh
