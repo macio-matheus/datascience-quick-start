@@ -4,9 +4,7 @@ services:
 
   notebook_data_science:
     container_name: data_science_jupyter
-    build:
-      context: ./
-      dockerfile: Dockerfile
+    image: maciomatheus/jupyter_notebook_data_science
     environment:
       JUPYTER_ENABLE_LAB: 1
       NB_UID: 10011
