@@ -37,8 +37,6 @@ Below, a part of the tools contained in the environment
     - Fbprophet
     - Scikit-Image
     - Scikit-fuzzy
-    - Tensorflow
-    - Keras
 ```
 
 
