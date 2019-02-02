@@ -37,8 +37,6 @@ Below, a part of the tools contained in the environment
     - Fbprophet
     - Scikit-Image
     - Scikit-fuzzy
-    - Tensorflow
-    - Keras
 ```
 
 
@@ -62,6 +60,11 @@ http://<your-ip>:8888/tree
     - 8888 => Jupyter
     - 6007 => Tensorboard
     - 5007 => Your App
+```
+
+## DockerHub
+```sh
+https://hub.docker.com/r/maciomatheus/jupyter_notebook_data_science/
 ```
 
 ## TODO
