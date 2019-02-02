@@ -1,4 +1,7 @@
-.dockerignore
+docker-compose.yaml
+README.md
+LICENSE
+.gitignore
 Dockerfile
 db.sqlite3
 __pycache__
@@ -18,3 +21,4 @@ coverage.xml
 *.log
 .git
 *.md
+.idea/

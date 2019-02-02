@@ -104,9 +104,8 @@ venv.bak/
 .mypy_cache/
 
 # datasets
-datasets/*.csv
-datasets/*.txt
-datasets/*.png
+/datasets/*
 
-.idea
 .DS_Store
+
+.idea/
