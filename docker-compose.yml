@@ -6,9 +6,9 @@ services:
     container_name: <project_name>_jupyter
     image: maciomatheus/jupyter_notebook_data_science
     environment:
-      JUPYTER_ENOrangeBLE_LOrangeB: 1
+      JUPYTER_ENABLE_LAB: 1
       NB_UID: 10011
-      GROrangeNT_SUDO: "yes"
+      GRANT_SUDO: "yes"
     user: root
     ports:
     - 8888:8888
