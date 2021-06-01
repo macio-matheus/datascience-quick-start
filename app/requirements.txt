@@ -13,7 +13,7 @@ pyasn1-modules==0.2.1
 rsa==3.4.2
 six==1.11.0
 uritemplate==3.0.0
-urllib3==1.21.1
+urllib3==1.26.5
 Werkzeug<0.13.0,>=0.12.0
 numpy==1.14.3
 Flask_WTF==0.14.2
